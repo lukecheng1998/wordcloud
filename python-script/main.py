@@ -1,3 +1,4 @@
 import wordcloud
-def main():
-    print(wordcloud.getTopSearchResults("Hello World"))
+import articles
+if __name__ == "__main__":
+    articles.getarticles
